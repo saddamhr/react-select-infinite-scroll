@@ -6,7 +6,7 @@
 <h4 align="center">Best practices to gain maximum engagements, contributions, and acknowledgements(like stars, sponsors)</h4>
 
 <p align="center">
-<a href="https://github.com/atapas/model-repo/blob/master/LICENSE" target="blank">
+<a href="https://github.com/saddamhr/react-select-infinite-scroll/blob/master/LICENSE" target="blank">
 <img src="https://img.shields.io/github/license/atapas/model-repo?style=flat-square" alt="tryshape licence" />
 </a>
 <a href="https://github.com/atapas/model-repo/fork" target="blank">
