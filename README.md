@@ -1,4 +1,4 @@
-# model-repo
+# react-select-infinite-scroll
 <p align="center">
 <img src="https://res.cloudinary.com/atapas/image/upload/v1632156569/demos/GitHub-Projects_tyxnkl.png" alt="name"/>
 <p/>
@@ -30,7 +30,7 @@
 </p>
 
 # 👋 Introducing `Model Repo`
-`model-repo` is a public repository contains the best practices about creating and maintainining repositories to gain maximum engagements, contributions, and acknowledgements(like stars, sponsors)
+`react-select-infinite-scroll` is a public repository contains the best practices about creating and maintainining repositories to gain maximum engagements, contributions, and acknowledgements(like stars, sponsors)
 
 # 🚀 Demo
 Here is a quick demo of the app. We hope you enjoy it.
@@ -44,12 +44,12 @@ Liked it? Please give a ⭐️ to <b>Model Repo</b>.
 [![Stargazers repo roster for @saddamhr/react-select-infinite-scroll](https://reporoster.com/stars/saddamhr/react-select-infinite-scroll)](https://github.com/saddamhr/react-select-infinite-scroll/stargazers)
 
 # 💻 Use Model Repo
-Please access `model-repo` using the URL:
+Please access `react-select-infinite-scroll` using the URL:
 
 > https://github.com/saddamhr/react-select-infinite-scroll
 
 # 🔥 Features
-`model-repo` comes with a bundle of features already. You can do the followings with it,
+`react-select-infinite-scroll` comes with a bundle of features already. You can do the followings with it,
 
 ## 🔢 Feature 1
  - Description.
@@ -57,7 +57,7 @@ Please access `model-repo` using the URL:
 ## 🏗️ Feature 2
 - Description
 
-# 🏗️ How to Set up `model-repo` for Development?
+# 🏗️ How to Set up `react-select-infinite-scroll` for Development?
 
 1. Clone the repository
 
@@ -68,7 +68,7 @@ git clone https://github.com/saddamhr/react-select-infinite-scroll.git
 2. Change the working directory
 
 ```bash
-cd model-repo
+cd react-select-infinite-scroll
 ```
 
 3. Install dependencies
@@ -104,7 +104,7 @@ That's All!!! Now open [localhost:3000](http://localhost:3000/) to see the app.
 This project is licensed under the MIT License - see the [`LICENSE`](LICENSE) file for details.
 
 # 🦄 Upcoming Features
-`model-repo` has all the potentials to grow further. Here are some of the upcoming features planned(not in any order),
+`react-select-infinite-scroll` has all the potentials to grow further. Here are some of the upcoming features planned(not in any order),
 
 - ✔️ Feature Request 1.
 - ✔️ Feature Request 2.
@@ -130,7 +130,7 @@ If you find something is missing, `react-select-infinite-scroll` is listening. P
 </a>
 
 
-# 🤝 Contributing to `model-repo`
+# 🤝 Contributing to `react-select-infinite-scroll`
 Any kind of positive contribution is welcome! Please help us to grow by contributing to the project.
 
 If you wish to contribute, you can work on any features [listed here](https://github.com/saddamhr/react-select-infinite-scroll#-upcoming-features) or create one on your own. After adding your code, please send us a Pull Request.
@@ -139,7 +139,7 @@ If you wish to contribute, you can work on any features [listed here](https://gi
 
 # 🙏 Support
 
-We all need support and motivation. `model-repo` is not an exception. If you found the app helpful, consider supporting us with a coffee.
+We all need support and motivation. `react-select-infinite-scroll` is not an exception. If you found the app helpful, consider supporting us with a coffee.
 
 <a href="https://www.buymeacoffee.com/greenroots">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50px">
