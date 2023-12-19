@@ -3,7 +3,7 @@
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/44530098/291155676-74d61488-7a02-4bbe-aef2-532fb16c2036.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20231219%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231219T081258Z&X-Amz-Expires=300&X-Amz-Signature=5a6421cd167f236833208184488f867bd523ac1b315bbde47e14f4fb9563a5c6&X-Amz-SignedHeaders=host&actor_id=44530098&key_id=0&repo_id=732878238" alt="name"/>
 <p/>
 
-<h4 align="center">Best practices to gain maximum engagements, contributions, and acknowledgements(like stars, sponsors)</h4>
+<h4 align="center">Bestt practices to gain maximum engagements, contributions, and acknowledgements(like stars, sponsors)</h4>
 
 <p align="center">
 <a href="https://github.com/saddamhr/react-select-infinite-scroll/blob/master/LICENSE" target="blank">
